@@ -1,7 +1,7 @@
 nodejs
 ======
 
-Base Node.js container for octohost.
+Base [Node.js](http://nodejs.org/) container for octohost.
 
 To use an already built container:
 
